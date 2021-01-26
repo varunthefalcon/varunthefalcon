@@ -4,10 +4,10 @@
 <a href="https://www.linkedin.com/in/varunthefalcon/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hola amigo!👋 I'am Varun. :sunglasses: </h2>
+<h2 align="center">Grüß Gott!👋 I'am Varun. :sunglasses: </h2>
 <p align="center">I'm a Front End Web Developer, ReactJs Tutor, React Native Developer from Chennai, India.
 I'm Electronics and Communication Engineering Graduate and passionate about Frontend and Mobile App Development, also gaining knowledge by sharing knowledge.
-When I'm not building awesome things :stuck_out_tongue_winking_eye:, you can find me teaching something I know or stealing others pizza/Icecream or munching on Netflix 😄  </p>
+When I'm not building awesome things :stuck_out_tongue_winking_eye:, you can find me teaching something I know or stealing pizza/Icecream or Cycling to get Icecream😄  </p>
 
 ### 💼 My Career
 - [Apptomate Digital Services](https://apptomate.co) ✒
