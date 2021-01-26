@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align='center'>
+<a href="https://stackoverflow.com/story/varunthefalcon"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/varun.falcon"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/varunthefalcon/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-<!--
-**varunthefalcon/varunthefalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hola amigo!👋 I'am Varun. :sunglasses: </h2>
+<p align="center">I'm a Front End Web Developer, ReactJs Tutor, React Native Developer from Chennai, India.
+I'm Electronics and Communication Engineering Graduate and passionate about Frontend and Mobile App Development, also gaining knowledge by sharing knowledge.
+When I'm not building awesome things :stuck_out_tongue_winking_eye:, you can find me teaching something I know or stealing others pizza/Icecream or munching on Netflix 😄  </p>
 
-Here are some ideas to get you started:
+### 💼 My Career
+- [Apptomate Digital Services](https://apptomate.co) ✒
+- [HopeTutors - ReactJs Trainer](https://www.hopetutors.com/)🚀
+- [Contus Pvt Ltd](https://www.contus.com/)☕
+- [Sutherland Global Services](https://www.sutherlandglobal.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Projects
+- [Secure Book - Playstore](https://play.google.com/store/apps/details?id=com.varunthefalcon.securebook)🚀
+- [Memory Sphere - Apptomate](https://apptomate-varun.netlify.app/)☕
+- [Portfolio - 2018](https://varunthefalcon.github.io/) 
+- [Memory Sphere - College](https://varunthefalcon.github.io/VR/)☕
+- [Portfolio - 2016](https://varunthefalcon.github.io/web-developer/)
