@@ -21,3 +21,11 @@ When I'm not building awesome things :stuck_out_tongue_winking_eye:, you can fin
 - [Portfolio - 2018](https://varunthefalcon.github.io/) 
 - [Memory Sphere - College](https://varunthefalcon.github.io/VR/)☕
 - [Portfolio - 2016](https://varunthefalcon.github.io/web-developer/)
+
+<p align="center">
+
+![Varun's Github Stats](https://stackoverflow.com/users/flair/8129206.png?theme=dark)
+
+![Varun's Github Stats](https://github-readme-stats.vercel.app/api?username=varunthefalcon&show_icons=true&theme=radical)
+
+</p>
